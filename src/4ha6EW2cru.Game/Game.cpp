@@ -1,3 +1,4 @@
+#define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS
 #include "Game.h"
 
 #include "System/Memory.cxx"

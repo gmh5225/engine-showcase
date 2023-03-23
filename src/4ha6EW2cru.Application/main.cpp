@@ -4,6 +4,7 @@
 *  @file   src\4ha6EW2cru.Application\main.cpp
 *  @date   2009/04/25
 */
+#define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS
 #include <windows.h>
 #include <mmsystem.h>
 #include <crtdbg.h>

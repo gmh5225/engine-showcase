@@ -5,6 +5,7 @@
 *  @date   2009/04/25
 */
 #pragma once
+#define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS
 #ifndef GAME_H
 #define GAME_H
 
